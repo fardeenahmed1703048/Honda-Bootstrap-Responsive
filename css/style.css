@@ -7,3 +7,26 @@
 {
     color:orange;
 }
+
+.photo-shape
+{
+width: 149px;
+height: 149px;
+border-radius: 50%;
+top: 40px;
+left: 86.5px;
+padding: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+}
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    
+    }
+   
