@@ -1,0 +1,9 @@
+.gray1
+{
+   -webkit-filter: grayscale(100%); 
+   filter: grayscale(100%);
+}
+#special-color
+{
+    color:orange;
+}
